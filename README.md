@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!-- Add iOS Development related tools and remove unrelated ones -->
-<a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Swift_logo_with_text.svg/220px-Swift_logo_with_text.svg.png" alt="swift" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Swift_logo_with_text.svg/220px-Swift_logo_with_text.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.apple.com%2Fswift%2Fresources%2F&psig=AOvVaw3GgEZzK34BEEq0tLSoyoLk&ust=1708066897864000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjUnJnjrIQDFQAAAAAdAAAAABAE)" alt="swift" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" alt="xcode" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/> </a>
 <!-- You can add more iOS development related tools here -->
